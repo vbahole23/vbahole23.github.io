@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zigeunerinnen, Really"
+title: "Events!"
 date: 2017-02-13
 ---
 
