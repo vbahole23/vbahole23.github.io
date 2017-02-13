@@ -3,8 +3,8 @@ layout: default
 title: Meetings
 ---
 
-#	{{ page.title }}
-#   Previous Meetings
+#	  {{ page.title }}
+##   Previous Meetings
 
 [Feb. 10, 2017](/meetings/zig_minutes021017.docx) 
 
