@@ -29,5 +29,7 @@ title: Resources
 
 [New Virginia Majority](http://www.newvirginiamajority.org/)
 
+[Eileen Bedell](http://www.bedellforvirginia.com/)
+
 <br>
 <br>
