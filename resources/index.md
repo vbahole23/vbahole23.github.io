@@ -31,5 +31,7 @@ title: Resources
 
 [Eileen Bedell](http://www.bedellforvirginia.com/)
 
+[Democratic Socialist of America](http://www.dsausa.org/)
+
 <br>
 <br>
