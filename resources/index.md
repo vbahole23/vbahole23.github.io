@@ -2,8 +2,8 @@
 layout: default
 title: Resources
 ---
-	{{ page.title }}
-	Helpful resources
+#	{{ page.title }}
+	
 
 [Indivisible Guide](https://www.indivisibleguide.com/)
 
