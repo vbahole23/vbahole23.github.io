@@ -6,7 +6,7 @@ title: Meetings
 #	  {{ page.title }}
    *Previous Meetings*
 
-[Feb. 10, 2017](/meetings/zig_minutes021017.docx) 
+Feb. 10, 2017
 
 ##	Upcoming Meetings
 Feb. 24, 2017 6pm
