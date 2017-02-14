@@ -23,5 +23,10 @@ title: Resources
 
 [Blue Majority VA](https://twitter.com/bluemajorityva)
 
+[Richmond World Affairs Council](http://www.richmondworldaffairs.org/)
+
+[HeadCount](https://www.headcount.org/)
+
+
 <br>
 <br>
