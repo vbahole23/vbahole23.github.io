@@ -27,6 +27,7 @@ title: Resources
 
 [HeadCount](https://www.headcount.org/)
 
+[New Virginia Majority](http://www.newvirginiamajority.org/)
 
 <br>
 <br>
